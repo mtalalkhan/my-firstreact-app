@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Created by: Muhammd Talal Khan
+          i am learning react-base-app applications
         </p>
         <a
           className="App-link"
